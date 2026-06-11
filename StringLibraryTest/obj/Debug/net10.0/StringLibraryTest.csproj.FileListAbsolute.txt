@@ -98,3 +98,4 @@ C:\Users\Theo\Desktop\ClassLibraryProjects\StringLibraryTest\obj\Debug\net10.0\r
 C:\Users\Theo\Desktop\ClassLibraryProjects\StringLibraryTest\obj\Debug\net10.0\StringLibraryTest.pdb
 C:\Users\Theo\Desktop\ClassLibraryProjects\StringLibraryTest\obj\Debug\net10.0\StringLibraryTest.genruntimeconfig.cache
 C:\Users\Theo\Desktop\ClassLibraryProjects\StringLibraryTest\obj\Debug\net10.0\ref\StringLibraryTest.dll
+C:\Users\Theo\Desktop\ClassLibraryProjects\StringLibraryTest\obj\Debug\net10.0\StringLibraryTest.sourcelink.json
